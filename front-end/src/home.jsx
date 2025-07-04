@@ -2,7 +2,7 @@ import { useEffect } from "react";
 
 function Home() {
 
-   useEffect(()=>{
+   /*useEffect(()=>{
     
     const getdata = async() => {
       
@@ -14,7 +14,7 @@ function Home() {
     }
     getdata()
 
-   },[])
+   },[])*/
 
     return ( 
         <div className="w-screen h-[100%] flex justify-center items-center">
